@@ -5,7 +5,7 @@ If you discover a security vulnerability in Recipe_Blog, please report it respon
 
 How to Report
 
-Email: your-email@example.com
+Email: ari.kashyap366gmail.com
 
 PGP Key: (optional, if you want encrypted reports)
 
